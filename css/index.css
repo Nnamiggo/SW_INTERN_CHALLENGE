@@ -46,6 +46,16 @@ body {
 	margin-left: 40%;
 }
 
+#logincheck {
+	color: blue;
+	font-size: 12px;
+	font-style: italic;
+	font-weight: bold;
+/*	position: relative;
+	margin-left: 59%;
+	margin-top:  -7%;*/
+}
+
 #footer {
 	height: 50px;
 	border-radius: 15px;
